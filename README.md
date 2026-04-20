@@ -107,7 +107,7 @@ JWT_SECRET=your_secret_key
 
 ## 🔗 Live Demo
 
-👉 [Try Quizspare](https://quizsphere-five.vercel.app/) *(Add your deployed link here)*
+👉 [Try Quizspare](https://quizsphere-five.vercel.app/) 
 
 ---
 
