@@ -113,7 +113,7 @@ JWT_SECRET=your_secret_key
 
 ## 📬 Contact
 
-* 📧 Email: [your-email@example.com](mailto:mahawarritik3@gmail.com)
+* 📧 Email: [mahawarritik3@gmail.com](mailto:mahawarritik3@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/ritik-mahawar-b313a6282/
 * 🐙 GitHub: https://github.com/mahawarritik3-byte
 
