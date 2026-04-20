@@ -1,0 +1,10 @@
+[
+  {"id":"mm1","question":"What is the value of √169?","options":["11","12","13","14"],"answer":"13","explanation":"13² = 169."},
+  {"id":"mm2","question":"Solve: 3x = 27. What is x?","options":["6","7","9","10"],"answer":"9","explanation":"x = 27/3 = 9."},
+  {"id":"mm3","question":"What is 15% of 200?","options":["20","25","30","35"],"answer":"30","explanation":"0.15 × 200 = 30."},
+  {"id":"mm4","question":"What is the sum of interior angles in a triangle?","options":["90°","180°","270°","360°"],"answer":"180°","explanation":"All triangles total 180°."},
+  {"id":"mm5","question":"What is 2⁵?","options":["10","16","32","64"],"answer":"32","explanation":"2×2×2×2×2 = 32."},
+  {"id":"mm6","question":"If a = 4, b = 5, what is a² + b²?","options":["20","25","41","45"],"answer":"41","explanation":"16 + 25 = 41."},
+  {"id":"mm7","question":"What is the perimeter of a rectangle 6×4?","options":["10","20","24","48"],"answer":"20","explanation":"2(6+4) = 20."},
+  {"id":"mm8","question":"What is the next prime after 13?","options":["15","17","19","21"],"answer":"17","explanation":"15 (÷3) and 16 are not prime; 17 is."}
+]

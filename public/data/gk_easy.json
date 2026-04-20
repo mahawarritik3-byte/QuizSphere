@@ -1,0 +1,10 @@
+[
+  {"id":"ge1","question":"What is the capital of France?","options":["Berlin","London","Paris","Rome"],"answer":"Paris","explanation":"Paris is the capital of France."},
+  {"id":"ge2","question":"How many continents are there?","options":["5","6","7","8"],"answer":"7","explanation":"There are 7 continents."},
+  {"id":"ge3","question":"Which planet is known as the Red Planet?","options":["Venus","Mars","Jupiter","Saturn"],"answer":"Mars","explanation":"Mars appears red due to iron oxide."},
+  {"id":"ge4","question":"What is the largest ocean?","options":["Atlantic","Indian","Arctic","Pacific"],"answer":"Pacific","explanation":"Pacific covers ~63 million sq mi."},
+  {"id":"ge5","question":"How many days are in a leap year?","options":["364","365","366","367"],"answer":"366","explanation":"Leap years have 366 days."},
+  {"id":"ge6","question":"Who painted the Mona Lisa?","options":["Van Gogh","Picasso","Da Vinci","Monet"],"answer":"Da Vinci","explanation":"Painted by Leonardo da Vinci."},
+  {"id":"ge7","question":"What language is spoken in Brazil?","options":["Spanish","Portuguese","French","English"],"answer":"Portuguese","explanation":"Brazil's official language is Portuguese."},
+  {"id":"ge8","question":"Which is the smallest country?","options":["Monaco","Malta","Vatican City","San Marino"],"answer":"Vatican City","explanation":"Vatican City is the smallest country."}
+]

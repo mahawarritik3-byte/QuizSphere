@@ -1,0 +1,10 @@
+[
+  {"id":"gm1","question":"Who wrote 'Hamlet'?","options":["Dickens","Shakespeare","Tolstoy","Twain"],"answer":"Shakespeare","explanation":"Written by William Shakespeare c.1600."},
+  {"id":"gm2","question":"What year did WWII end?","options":["1943","1944","1945","1946"],"answer":"1945","explanation":"WWII ended in 1945."},
+  {"id":"gm3","question":"Currency of Japan?","options":["Won","Yen","Yuan","Ringgit"],"answer":"Yen","explanation":"Japan uses the Yen (¥)."},
+  {"id":"gm4","question":"Which gas do plants absorb?","options":["Oxygen","Hydrogen","Carbon dioxide","Nitrogen"],"answer":"Carbon dioxide","explanation":"Plants take in CO₂ for photosynthesis."},
+  {"id":"gm5","question":"Tallest mountain in the world?","options":["K2","Everest","Kangchenjunga","Lhotse"],"answer":"Everest","explanation":"Mt Everest at 8,849 m."},
+  {"id":"gm6","question":"Who invented the telephone?","options":["Edison","Bell","Tesla","Marconi"],"answer":"Bell","explanation":"Alexander Graham Bell, 1876."},
+  {"id":"gm7","question":"Largest mammal on Earth?","options":["Elephant","Blue whale","Giraffe","Hippo"],"answer":"Blue whale","explanation":"The blue whale is the largest mammal."},
+  {"id":"gm8","question":"How many bones in the adult human body?","options":["186","206","226","246"],"answer":"206","explanation":"Adults have 206 bones."}
+]

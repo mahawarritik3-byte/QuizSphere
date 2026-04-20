@@ -1,0 +1,10 @@
+[
+  {"id":"gh1","question":"In what year did the Berlin Wall fall?","options":["1987","1989","1991","1993"],"answer":"1989","explanation":"Fell on November 9, 1989."},
+  {"id":"gh2","question":"Who developed the theory of general relativity?","options":["Newton","Einstein","Bohr","Hawking"],"answer":"Einstein","explanation":"Albert Einstein, published 1915."},
+  {"id":"gh3","question":"Capital of Australia?","options":["Sydney","Melbourne","Canberra","Perth"],"answer":"Canberra","explanation":"Canberra is the capital, not Sydney."},
+  {"id":"gh4","question":"Chemical symbol for gold?","options":["Go","Gd","Au","Ag"],"answer":"Au","explanation":"From Latin 'aurum'."},
+  {"id":"gh5","question":"Who wrote 'One Hundred Years of Solitude'?","options":["Borges","García Márquez","Neruda","Allende"],"answer":"García Márquez","explanation":"Gabriel García Márquez, 1967."},
+  {"id":"gh6","question":"Year the first iPhone launched?","options":["2005","2006","2007","2008"],"answer":"2007","explanation":"Steve Jobs unveiled it Jan 2007."},
+  {"id":"gh7","question":"Smallest planet in our Solar System?","options":["Mars","Mercury","Venus","Pluto"],"answer":"Mercury","explanation":"Mercury is the smallest (Pluto is dwarf)."},
+  {"id":"gh8","question":"The Treaty of Versailles was signed in?","options":["1917","1918","1919","1920"],"answer":"1919","explanation":"Signed June 28, 1919."}
+]

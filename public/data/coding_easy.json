@@ -1,0 +1,10 @@
+[
+  {"id":"ce1","question":"Which language runs in a web browser?","options":["Java","C","Python","JavaScript"],"answer":"JavaScript","explanation":"JS is the language of browsers."},
+  {"id":"ce2","question":"What does HTML stand for?","options":["Hyper Trainer Marking Language","HyperText Markup Language","HyperText Markdown Language","None"],"answer":"HyperText Markup Language","explanation":"HTML = HyperText Markup Language."},
+  {"id":"ce3","question":"What does CSS style?","options":["Logic","Database","Web pages","Servers"],"answer":"Web pages","explanation":"CSS styles the look of web pages."},
+  {"id":"ce4","question":"Which symbol starts a comment in JS?","options":["#","//","--","<!--"],"answer":"//","explanation":"// for single-line JS comments."},
+  {"id":"ce5","question":"Which keyword declares a variable in modern JS?","options":["var","let","int","def"],"answer":"let","explanation":"`let` (and `const`) are modern."},
+  {"id":"ce6","question":"What is the file extension for Python?","options":[".js",".py",".rb",".pl"],"answer":".py","explanation":"Python files use .py."},
+  {"id":"ce7","question":"What does the `===` operator check in JS?","options":["Assignment","Loose equality","Strict equality","Not equal"],"answer":"Strict equality","explanation":"=== checks value AND type."},
+  {"id":"ce8","question":"Which tag creates a hyperlink in HTML?","options":["<link>","<a>","<href>","<url>"],"answer":"<a>","explanation":"Anchor tag <a href=...> creates links."}
+]

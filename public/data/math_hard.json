@@ -1,0 +1,10 @@
+[
+  {"id":"mh1","question":"What is the derivative of x³?","options":["x²","2x²","3x²","3x"],"answer":"3x²","explanation":"d/dx[xⁿ] = nxⁿ⁻¹."},
+  {"id":"mh2","question":"What is ∫ 2x dx?","options":["x²+C","2x²+C","x+C","2+C"],"answer":"x²+C","explanation":"∫2x dx = x² + C."},
+  {"id":"mh3","question":"log₁₀(1000) = ?","options":["2","3","10","100"],"answer":"3","explanation":"10³ = 1000."},
+  {"id":"mh4","question":"In a circle, area = ?","options":["2πr","πr²","πd","2πr²"],"answer":"πr²","explanation":"Area of a circle is πr²."},
+  {"id":"mh5","question":"sin(90°) = ?","options":["0","0.5","1","√2/2"],"answer":"1","explanation":"sin(90°) equals 1."},
+  {"id":"mh6","question":"Solve: x² − 5x + 6 = 0. Roots?","options":["1, 6","2, 3","−2, −3","−1, 6"],"answer":"2, 3","explanation":"(x−2)(x−3) = 0."},
+  {"id":"mh7","question":"What is e (to 3 dp)?","options":["2.618","2.718","3.141","1.618"],"answer":"2.718","explanation":"Euler's number ≈ 2.71828."},
+  {"id":"mh8","question":"Determinant of [[1,2],[3,4]]?","options":["−2","2","10","−10"],"answer":"−2","explanation":"1·4 − 2·3 = −2."}
+]

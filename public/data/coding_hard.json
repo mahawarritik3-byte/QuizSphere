@@ -1,0 +1,10 @@
+[
+  {"id":"ch1","question":"Worst-case complexity of QuickSort?","options":["O(n)","O(n log n)","O(n²)","O(log n)"],"answer":"O(n²)","explanation":"Bad pivot choices give O(n²)."},
+  {"id":"ch2","question":"Which design pattern ensures one instance only?","options":["Factory","Observer","Singleton","Decorator"],"answer":"Singleton","explanation":"Singleton restricts to one instance."},
+  {"id":"ch3","question":"What is a closure in JavaScript?","options":["Loop construct","Function with retained scope","Class method","Async wrapper"],"answer":"Function with retained scope","explanation":"A closure captures its lexical scope."},
+  {"id":"ch4","question":"In CAP theorem, what does P stand for?","options":["Performance","Persistence","Partition tolerance","Parallelism"],"answer":"Partition tolerance","explanation":"CAP = Consistency, Availability, Partition tolerance."},
+  {"id":"ch5","question":"Which is NOT a JS primitive?","options":["string","number","array","symbol"],"answer":"array","explanation":"Arrays are objects, not primitives."},
+  {"id":"ch6","question":"Big-O of accessing element in hash map (avg)?","options":["O(1)","O(log n)","O(n)","O(n²)"],"answer":"O(1)","explanation":"Average case is constant time."},
+  {"id":"ch7","question":"In TCP, what does the SYN flag do?","options":["Closes connection","Initiates handshake","Acknowledges data","Resets connection"],"answer":"Initiates handshake","explanation":"SYN starts the 3-way handshake."},
+  {"id":"ch8","question":"Which sorting algorithm is stable by default?","options":["QuickSort","HeapSort","Merge Sort","Selection Sort"],"answer":"Merge Sort","explanation":"Merge sort preserves equal-element order."}
+]

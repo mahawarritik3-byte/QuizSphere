@@ -1,0 +1,10 @@
+[
+  {"id":"cm1","question":"What is the time complexity of binary search?","options":["O(n)","O(log n)","O(n log n)","O(1)"],"answer":"O(log n)","explanation":"Binary search halves the array each step."},
+  {"id":"cm2","question":"In React, what hook manages local state?","options":["useEffect","useState","useMemo","useRef"],"answer":"useState","explanation":"useState is the primary state hook."},
+  {"id":"cm3","question":"Which HTTP status means 'Not Found'?","options":["200","301","404","500"],"answer":"404","explanation":"404 = resource not found."},
+  {"id":"cm4","question":"What does SQL stand for?","options":["Simple Query Lang","Structured Query Language","Server Query List","Stored Quoted Lang"],"answer":"Structured Query Language","explanation":"SQL = Structured Query Language."},
+  {"id":"cm5","question":"Output of: typeof null in JS?","options":["null","undefined","object","NaN"],"answer":"object","explanation":"Famous JS quirk: typeof null === 'object'."},
+  {"id":"cm6","question":"Which data structure uses LIFO?","options":["Queue","Stack","Heap","Tree"],"answer":"Stack","explanation":"Stack = Last In, First Out."},
+  {"id":"cm7","question":"In Git, which command stages files?","options":["git push","git commit","git add","git pull"],"answer":"git add","explanation":"`git add` stages changes for commit."},
+  {"id":"cm8","question":"Which CSS property creates flex layout?","options":["display: block","display: flex","position: flex","layout: flex"],"answer":"display: flex","explanation":"display: flex enables Flexbox."}
+]

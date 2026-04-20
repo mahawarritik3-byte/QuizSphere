@@ -1,0 +1,10 @@
+[
+  {"id":"me1","question":"What is 12 + 7?","options":["18","19","20","21"],"answer":"19","explanation":"12 + 7 = 19."},
+  {"id":"me2","question":"What is 9 × 6?","options":["54","56","52","48"],"answer":"54","explanation":"9 × 6 = 54."},
+  {"id":"me3","question":"What is 100 ÷ 4?","options":["20","24","25","26"],"answer":"25","explanation":"100 / 4 = 25."},
+  {"id":"me4","question":"What is 15 − 8?","options":["6","7","8","9"],"answer":"7","explanation":"15 − 8 = 7."},
+  {"id":"me5","question":"What is half of 50?","options":["20","25","30","35"],"answer":"25","explanation":"50 / 2 = 25."},
+  {"id":"me6","question":"What is 3²?","options":["6","9","12","27"],"answer":"9","explanation":"3 × 3 = 9."},
+  {"id":"me7","question":"What is 11 + 22?","options":["31","32","33","34"],"answer":"33","explanation":"11 + 22 = 33."},
+  {"id":"me8","question":"What is 144 ÷ 12?","options":["10","11","12","14"],"answer":"12","explanation":"12 × 12 = 144."}
+]
